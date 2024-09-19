@@ -1,6 +1,10 @@
 # Blender Export All Formats Extension
 Exports the scene in all formats and captures orbiting renders and viewports (wireframe, solid, and material)
 
+Explanatory video [ https://youtu.be/UJTLOja41xM ]:
+
+[![YouTube Video](https://img.youtube.com/vi/UJTLOja41xM/0.jpg)](https://youtu.be/UJTLOja41xM)
+
 Add the extension via Edit --> Preferences --> Add-ons --> drop-down at upper right --> Install from Disk:
 
 ![Install from disk](https://github.com/TEC-IST/blender-export-all/blob/main/images/screenshot-3.png)
